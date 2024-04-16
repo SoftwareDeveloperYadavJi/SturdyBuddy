@@ -20,7 +20,7 @@ A crowd sourcing model for generation of a large question bank. Volunteers can c
 git clone https://github.com/SoftwareDeveloperYadavJi/SturdyBuddy.git
 cd Abhyas/frontend
 npm i
-cd Abhyas/backend
+cd SturdyBuddy/backend
 npm i
 ```
 
