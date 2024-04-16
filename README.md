@@ -1,4 +1,4 @@
-# Abhyas
+# SturdyBuddy
 
 A crowd sourcing model for generation of a large question bank. Volunteers can contribute questions to the database, which can then be used by teachers to generate question paper and by students to take up quizes.
 
@@ -18,7 +18,7 @@ A crowd sourcing model for generation of a large question bank. Volunteers can c
 
 ```sh
 git clone https://github.com/SoftwareDeveloperYadavJi/SturdyBuddy.git
-cd Abhyas/frontend
+cd SturdyBuddy/frontend
 npm i
 cd SturdyBuddy/backend
 npm i
@@ -30,9 +30,4 @@ Run the app
 npm run dev
 ```
 
----
-## Screenshots
 
-![home](screenshots/home.png)
-![contribute](screenshots/contribute.png)
-![generate paper](screenshots/generatePaper.png)
